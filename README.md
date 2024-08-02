@@ -34,6 +34,7 @@ Clear and concise solutions to LeetCode and GFG problems
 ## Array
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0455-assign-cookies) |
 | [0854-making-a-large-island](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0854-making-a-large-island) |
 ## Union Find
 |  |
@@ -43,4 +44,16 @@ Clear and concise solutions to LeetCode and GFG problems
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0854-making-a-large-island) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
