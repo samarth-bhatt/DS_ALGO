@@ -66,4 +66,8 @@ Clear and concise solutions to LeetCode and GFG problems
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
