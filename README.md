@@ -22,6 +22,7 @@ Clear and concise solutions to LeetCode and GFG problems
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0744-network-delay-time) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Shortest Path
 |  |
 | ------- |
@@ -72,4 +73,24 @@ Clear and concise solutions to LeetCode and GFG problems
 | [0175-combine-two-tables](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0175-combine-two-tables) |
 | [0577-employee-bonus](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0577-employee-bonus) |
 | [1827-invalid-tweets](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1827-invalid-tweets) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0789-kth-largest-element-in-a-stream) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
