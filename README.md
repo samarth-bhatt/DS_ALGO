@@ -81,6 +81,7 @@ Clear and concise solutions to LeetCode and GFG problems
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0838-design-linked-list](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0838-design-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -93,4 +94,8 @@ Clear and concise solutions to LeetCode and GFG problems
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0789-kth-largest-element-in-a-stream) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
