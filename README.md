@@ -82,6 +82,7 @@ Clear and concise solutions to LeetCode and GFG problems
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0232-implement-queue-using-stacks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0838-design-linked-list) |
 ## Binary Search Tree
@@ -100,4 +101,12 @@ Clear and concise solutions to LeetCode and GFG problems
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0838-design-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
