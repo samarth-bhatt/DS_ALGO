@@ -36,6 +36,7 @@ Clear and concise solutions to LeetCode and GFG problems
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0455-assign-cookies) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0854-making-a-large-island](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0854-making-a-large-island) |
@@ -50,6 +51,7 @@ Clear and concise solutions to LeetCode and GFG problems
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
