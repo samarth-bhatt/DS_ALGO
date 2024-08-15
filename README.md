@@ -43,6 +43,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [0854-making-a-large-island](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1752-arithmetic-subarrays](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1752-arithmetic-subarrays) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Union Find
 |  |
@@ -72,6 +73,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | ------- |
 | [0455-assign-cookies](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1752-arithmetic-subarrays](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1752-arithmetic-subarrays) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Binary Indexed Tree
 |  |
@@ -135,4 +137,8 @@ Clear and concise solutions to LeetCode and GFG problems
 |  |
 | ------- |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/samarth-bhatt/DS_ALGO/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Hash Table
+|  |
+| ------- |
+| [1752-arithmetic-subarrays](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1752-arithmetic-subarrays) |
 <!---LeetCode Topics End-->
