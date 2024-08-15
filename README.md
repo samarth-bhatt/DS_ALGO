@@ -39,6 +39,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [0283-move-zeroes](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0455-assign-cookies) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0854-making-a-large-island](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0854-making-a-large-island) |
 ## Union Find
 |  |
@@ -53,6 +54,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | ------- |
 | [0283-move-zeroes](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0455-assign-cookies) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Greedy
 |  |
 | ------- |
@@ -61,6 +63,7 @@ Clear and concise solutions to LeetCode and GFG problems
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0455-assign-cookies) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -88,6 +91,7 @@ Clear and concise solutions to LeetCode and GFG problems
 ## Binary Search Tree
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
