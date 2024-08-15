@@ -111,6 +111,7 @@ Clear and concise solutions to LeetCode and GFG problems
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0838-design-linked-list) |
+| [1765-merge-in-between-linked-lists](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1765-merge-in-between-linked-lists) |
 ## Stack
 |  |
 | ------- |
