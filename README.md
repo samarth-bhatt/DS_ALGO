@@ -38,6 +38,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | ------- |
 | [0283-move-zeroes](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0455-assign-cookies) |
+| [0624-maximum-distance-in-arrays](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0624-maximum-distance-in-arrays) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0854-making-a-large-island](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0854-making-a-large-island) |
@@ -66,6 +67,7 @@ Clear and concise solutions to LeetCode and GFG problems
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0455-assign-cookies) |
+| [0624-maximum-distance-in-arrays](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1988-minimize-maximum-pair-sum-in-array) |
