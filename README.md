@@ -45,6 +45,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1752-arithmetic-subarrays](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1752-arithmetic-subarrays) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2727-number-of-senior-citizens](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2727-number-of-senior-citizens) |
 ## Union Find
 |  |
 | ------- |
@@ -128,6 +129,7 @@ Clear and concise solutions to LeetCode and GFG problems
 ## String
 |  |
 | ------- |
+| [2727-number-of-senior-citizens](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2727-number-of-senior-citizens) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/samarth-bhatt/DS_ALGO/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
