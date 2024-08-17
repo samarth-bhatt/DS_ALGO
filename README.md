@@ -46,6 +46,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1752-arithmetic-subarrays](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1752-arithmetic-subarrays) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2727-number-of-senior-citizens](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2727-number-of-senior-citizens) |
 ## Union Find
 |  |
@@ -97,6 +98,7 @@ Clear and concise solutions to LeetCode and GFG problems
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Design
 |  |
 | ------- |
@@ -112,6 +114,7 @@ Clear and concise solutions to LeetCode and GFG problems
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Data Stream
 |  |
 | ------- |
@@ -146,4 +149,5 @@ Clear and concise solutions to LeetCode and GFG problems
 |  |
 | ------- |
 | [1752-arithmetic-subarrays](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1752-arithmetic-subarrays) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
