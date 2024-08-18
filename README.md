@@ -155,8 +155,13 @@ Clear and concise solutions to LeetCode and GFG problems
 |  |
 | ------- |
 | [1761-count-sorted-vowel-strings](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1761-count-sorted-vowel-strings) |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 ## Combinatorics
 |  |
 | ------- |
 | [1761-count-sorted-vowel-strings](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1761-count-sorted-vowel-strings) |
+## Enumeration
+|  |
+| ------- |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 <!---LeetCode Topics End-->
