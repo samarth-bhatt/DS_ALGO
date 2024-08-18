@@ -22,6 +22,7 @@ Clear and concise solutions to LeetCode and GFG problems
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0264-ugly-number-ii) |
 | [0744-network-delay-time](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Shortest Path
@@ -32,6 +33,7 @@ Clear and concise solutions to LeetCode and GFG problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0264-ugly-number-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1761-count-sorted-vowel-strings](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1761-count-sorted-vowel-strings) |
@@ -152,11 +154,13 @@ Clear and concise solutions to LeetCode and GFG problems
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0264-ugly-number-ii) |
 | [1752-arithmetic-subarrays](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1752-arithmetic-subarrays) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0264-ugly-number-ii) |
 | [1761-count-sorted-vowel-strings](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1761-count-sorted-vowel-strings) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
