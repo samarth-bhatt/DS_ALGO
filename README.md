@@ -141,6 +141,7 @@ Clear and concise solutions to LeetCode and GFG problems
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2727-number-of-senior-citizens](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2727-number-of-senior-citizens) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/samarth-bhatt/DS_ALGO/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
@@ -154,6 +155,7 @@ Clear and concise solutions to LeetCode and GFG problems
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0264-ugly-number-ii](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0264-ugly-number-ii) |
 | [1752-arithmetic-subarrays](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1752-arithmetic-subarrays) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -176,4 +178,8 @@ Clear and concise solutions to LeetCode and GFG problems
 |  |
 | ------- |
 | [2298-count-integers-with-even-digit-sum](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2298-count-integers-with-even-digit-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
