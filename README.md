@@ -35,6 +35,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | ------- |
 | [0264-ugly-number-ii](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0338-counting-bits) |
+| [0664-strange-printer](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1761-count-sorted-vowel-strings](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1761-count-sorted-vowel-strings) |
@@ -143,6 +144,7 @@ Clear and concise solutions to LeetCode and GFG problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0664-strange-printer](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0664-strange-printer) |
 | [2727-number-of-senior-citizens](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2727-number-of-senior-citizens) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/samarth-bhatt/DS_ALGO/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
