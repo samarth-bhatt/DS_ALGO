@@ -14,6 +14,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | ------- |
 | [0744-network-delay-time](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0744-network-delay-time) |
 | [0854-making-a-large-island](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0854-making-a-large-island) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Graph
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [0719-find-k-th-smallest-pair-distance](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0854-making-a-large-island](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0890-lemonade-change) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1752-arithmetic-subarrays](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1752-arithmetic-subarrays) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -62,6 +64,7 @@ Clear and concise solutions to LeetCode and GFG problems
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0854-making-a-large-island) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Two Pointers
 |  |
