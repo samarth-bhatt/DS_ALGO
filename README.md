@@ -54,6 +54,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1752-arithmetic-subarrays](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1752-arithmetic-subarrays) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2727-number-of-senior-citizens](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2727-number-of-senior-citizens) |
 ## Union Find
@@ -66,6 +67,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [0854-making-a-large-island](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -184,6 +186,7 @@ Clear and concise solutions to LeetCode and GFG problems
 ## Simulation
 |  |
 | ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Sliding Window
 |  |
