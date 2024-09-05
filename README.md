@@ -56,6 +56,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2155-find-missing-observations) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2727-number-of-senior-citizens](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2727-number-of-senior-citizens) |
 ## Union Find
@@ -175,6 +176,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | ------- |
 | [0264-ugly-number-ii](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0264-ugly-number-ii) |
 | [1761-count-sorted-vowel-strings](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1761-count-sorted-vowel-strings) |
+| [2155-find-missing-observations](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2155-find-missing-observations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 ## Combinatorics
@@ -190,6 +192,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2155-find-missing-observations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Sliding Window
 |  |
