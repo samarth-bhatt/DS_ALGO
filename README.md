@@ -51,6 +51,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [0854-making-a-large-island](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0890-lemonade-change) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1752-arithmetic-subarrays](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1752-arithmetic-subarrays) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -120,6 +121,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [0232-implement-queue-using-stacks](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0232-implement-queue-using-stacks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0838-design-linked-list) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -146,6 +148,7 @@ Clear and concise solutions to LeetCode and GFG problems
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0232-implement-queue-using-stacks) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Queue
 |  |
 | ------- |
