@@ -60,6 +60,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [2132-convert-1d-array-into-2d-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2155-find-missing-observations) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2727-number-of-senior-citizens) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Union Find
@@ -80,6 +81,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [0455-assign-cookies](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
 | ------- |
@@ -95,6 +97,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [0719-find-k-th-smallest-pair-distance](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1752-arithmetic-subarrays](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1752-arithmetic-subarrays) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -178,6 +181,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [0264-ugly-number-ii](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0264-ugly-number-ii) |
 | [1752-arithmetic-subarrays](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1752-arithmetic-subarrays) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
