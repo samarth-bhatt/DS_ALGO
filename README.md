@@ -38,6 +38,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [0338-counting-bits](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0338-counting-bits) |
 | [0664-strange-printer](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1025-minimum-cost-for-tickets](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1025-minimum-cost-for-tickets) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1761-count-sorted-vowel-strings](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1761-count-sorted-vowel-strings) |
 ## Array
@@ -50,6 +51,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [0719-find-k-th-smallest-pair-distance](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0854-making-a-large-island](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0890-lemonade-change) |
+| [1025-minimum-cost-for-tickets](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1025-minimum-cost-for-tickets) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
