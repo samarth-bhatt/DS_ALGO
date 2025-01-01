@@ -165,6 +165,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0664-strange-printer](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0664-strange-printer) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2727-number-of-senior-citizens) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/samarth-bhatt/DS_ALGO/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
@@ -215,6 +216,7 @@ Clear and concise solutions to LeetCode and GFG problems
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Monotonic Stack
 |  |
