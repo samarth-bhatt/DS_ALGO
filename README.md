@@ -6,12 +6,14 @@ Clear and concise solutions to LeetCode and GFG problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0404-sum-of-left-leaves) |
 | [0744-network-delay-time](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0744-network-delay-time) |
 | [0854-making-a-large-island](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0854-making-a-large-island) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0404-sum-of-left-leaves) |
 | [0744-network-delay-time](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0744-network-delay-time) |
 | [0854-making-a-large-island](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -119,6 +121,7 @@ Clear and concise solutions to LeetCode and GFG problems
 ## Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0404-sum-of-left-leaves) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -138,6 +141,7 @@ Clear and concise solutions to LeetCode and GFG problems
 ## Binary Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0404-sum-of-left-leaves) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2306-create-binary-tree-from-descriptions) |
