@@ -49,6 +49,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [0283-move-zeroes](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0455-assign-cookies) |
+| [0500-keyboard-row](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0500-keyboard-row) |
 | [0624-maximum-distance-in-arrays](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0624-maximum-distance-in-arrays) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -169,6 +170,7 @@ Clear and concise solutions to LeetCode and GFG problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0500-keyboard-row](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0500-keyboard-row) |
 | [0664-strange-printer](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0664-strange-printer) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2727-number-of-senior-citizens) |
@@ -188,6 +190,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0264-ugly-number-ii](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0264-ugly-number-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0500-keyboard-row) |
 | [1752-arithmetic-subarrays](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1752-arithmetic-subarrays) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2581-divide-players-into-teams-of-equal-skill) |
