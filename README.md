@@ -70,6 +70,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [2306-create-binary-tree-from-descriptions](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2727-number-of-senior-citizens) |
+| [3429-special-array-i](https://github.com/samarth-bhatt/DS_ALGO/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Union Find
 |  |
