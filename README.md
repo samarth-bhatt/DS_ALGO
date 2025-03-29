@@ -166,6 +166,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [0232-implement-queue-using-stacks](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0232-implement-queue-using-stacks) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3447-clear-digits](https://github.com/samarth-bhatt/DS_ALGO/tree/master/3447-clear-digits) |
 ## Queue
 |  |
 | ------- |
@@ -178,6 +179,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [0664-strange-printer](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0664-strange-printer) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2727-number-of-senior-citizens) |
+| [3447-clear-digits](https://github.com/samarth-bhatt/DS_ALGO/tree/master/3447-clear-digits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/samarth-bhatt/DS_ALGO/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
@@ -223,6 +225,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [2132-convert-1d-array-into-2d-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2155-find-missing-observations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2298-count-integers-with-even-digit-sum) |
+| [3447-clear-digits](https://github.com/samarth-bhatt/DS_ALGO/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
