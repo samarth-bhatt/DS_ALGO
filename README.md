@@ -10,6 +10,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [0744-network-delay-time](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0744-network-delay-time) |
 | [0854-making-a-large-island](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
@@ -128,6 +129,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [0404-sum-of-left-leaves](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0404-sum-of-left-leaves) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Design
@@ -149,6 +151,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [0404-sum-of-left-leaves](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0404-sum-of-left-leaves) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Data Stream
