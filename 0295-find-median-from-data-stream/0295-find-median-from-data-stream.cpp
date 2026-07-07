@@ -16,7 +16,6 @@ public:
                 mini.pop();
                 maxi.push(x);
                 mini.push(num);
-                // Added rebalance
                 if (maxi.size() > mini.size()) {
                     mini.push(maxi.top());
                     maxi.pop();
@@ -39,12 +38,6 @@ public:
 
                 mini.push(y);
                 maxi.push(x);
-            }
-
-            // Added rebalance
-            if (maxi.size() > mini.size()) {
-                mini.push(maxi.top());
-                maxi.pop();
             }
         }
     }
