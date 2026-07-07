@@ -214,6 +214,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [2155-find-missing-observations](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2155-find-missing-observations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/samarth-bhatt/DS_ALGO/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Combinatorics
 |  |
 | ------- |
