@@ -29,6 +29,7 @@ Clear and concise solutions to LeetCode and GFG problems
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0295-find-median-from-data-stream) |
 | [0744-network-delay-time](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Shortest Path
@@ -88,6 +89,7 @@ Clear and concise solutions to LeetCode and GFG problems
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -103,6 +105,7 @@ Clear and concise solutions to LeetCode and GFG problems
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1752-arithmetic-subarrays](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1752-arithmetic-subarrays) |
@@ -136,6 +139,7 @@ Clear and concise solutions to LeetCode and GFG problems
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0838-design-linked-list) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -157,6 +161,7 @@ Clear and concise solutions to LeetCode and GFG problems
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Linked List
 |  |
