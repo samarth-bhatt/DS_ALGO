@@ -74,6 +74,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [2727-number-of-senior-citizens](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2727-number-of-senior-citizens) |
 | [3429-special-array-i](https://github.com/samarth-bhatt/DS_ALGO/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/samarth-bhatt/DS_ALGO/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Union Find
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [0890-lemonade-change](https://github.com/samarth-bhatt/DS_ALGO/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/samarth-bhatt/DS_ALGO/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +113,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [1752-arithmetic-subarrays](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1752-arithmetic-subarrays) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/samarth-bhatt/DS_ALGO/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
 |  |
 | ------- |
