@@ -70,6 +70,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [2132-convert-1d-array-into-2d-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2155-find-missing-observations) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2727-number-of-senior-citizens) |
 | [3429-special-array-i](https://github.com/samarth-bhatt/DS_ALGO/tree/master/3429-special-array-i) |
@@ -86,6 +87,7 @@ Clear and concise solutions to LeetCode and GFG problems
 | [1171-shortest-path-in-binary-matrix](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/samarth-bhatt/DS_ALGO/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/samarth-bhatt/DS_ALGO/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Two Pointers
 |  |
 | ------- |
